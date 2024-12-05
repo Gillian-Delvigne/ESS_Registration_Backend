@@ -1,3 +1,3 @@
-# Express-based Demo App
+# Documentation
 
-A simple [Express](http://expressjs.com/)-based app to test [Node.js](http://nodejs.org/) support.
+See [the project page](https://github.com/Gillian-Delvigne/ESS_Registration_FrontEnd) for further information.
